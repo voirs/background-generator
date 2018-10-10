@@ -1,0 +1,38 @@
+body {
+    font: 'Quicksand', sans-serif;
+    color: #fff;
+    text-align: center;
+    text-transform: uppercase;
+    letter-spacing: .3em;
+    background: -webkit-linear-gradient(left, rgb(255, 76, 252), rgb(0, 187, 255));
+    background: -o-linear-gradient(left, rgb(255, 76, 252), rgb(0, 187, 255));
+    background: linear-gradient(to right, rgb(255, 76, 252), rgb(0, 187, 255)); 
+}
+
+h1 {
+    font: 600 2.8em 'Quicksand', sans-serif;
+    text-align: center;
+    text-transform: uppercase;
+    margin-top: 6rem;
+}
+
+h3 {
+	  font: 900 1em 'Quicksand', sans-serif;
+    text-align: center;
+    text-transform: none;
+    letter-spacing: 0.01em;
+}
+
+h2 {
+	font: 900 1em 'Quicksand', sans-serif;
+}
+
+input{
+  margin-bottom: 30px;
+  padding: 0;
+  border: none;
+  height: 50px;
+  width: 80px;
+  outline: 0;
+}
+
